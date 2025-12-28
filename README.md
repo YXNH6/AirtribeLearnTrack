@@ -7,3 +7,8 @@ It allows you to perform the following operations :
 - Enrollment Management : Enrolling students in courses, viewing the enrollments for a student, managing status of enrollments
 
 It's a simple console menu driven application that is extensible to include different types of Students and Courses.
+
+## How to Compile 
+`javac com/airtribe/learntrack/Main.java`
+## How to Run
+`java com.airtribe.learntrack.Main`
